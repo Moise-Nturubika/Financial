@@ -56,11 +56,15 @@ A mobile app that consolidates mobile money transactions from Airtel Money, Oran
 
 List of apps or libs that do similar stuff as your project.
 
-- [Delicious Food](https://github.com/othneildrew/Best-README-Template)
+- [Delicious Food](https://github.com/Moise-Nturubika/Delicious-Food-App)
 - [PharmaKit](https://gist.github.com/DomPizzie/7a5ff55ffa9081f2de27c315f5018afc)
 
 ---
 
-> [Moïse Nturubika](https://github.com/Moise-Nturubika) &nbsp;&middot;&nbsp;
+> [!NOTE]  
+> Due to an incident involving the unauthorized use of a brand logo in one of my applications, I have been temporarily banned from the Play Store. While resolving this situation, I have decided to publish my applications on GitHub to continue building my portfolio and allow recruiters to evaluate my work.
+
+---
+<!-- > [Moïse Nturubika](https://github.com/Moise-Nturubika) &nbsp;&middot;&nbsp; -->
 > GitHub [@moise-nturubika](https://github.com/Moise-Nturubika) &nbsp;&middot;&nbsp;
 > Twitter [@moise-nturubika](https://twitter.com/moise-nturubika)
